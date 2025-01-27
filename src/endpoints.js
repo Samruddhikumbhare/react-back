@@ -5,7 +5,7 @@ const feedback = require('./seed-data/feedback')
 
 // Create MySQL connection
 const db = mysql.createConnection({
-  host      : '13.201.8.195',
+  host      : '47.128.144.195',
   user      : 'sammy',
   password  : 'admin',
   port      : "3306",
